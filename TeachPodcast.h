@@ -2,7 +2,6 @@
 #include <iostream>
 #include <string>
 #include "Podcast.h"
-using namespace std;
 
 class TeachPodcast : public Podcast {
 private:

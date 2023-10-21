@@ -2,7 +2,6 @@
 #include <iostream>
 #include <string>
 #include "Music.h"
-using namespace std;
 
 class PopMusic : public Music {
 private:

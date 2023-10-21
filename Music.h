@@ -2,7 +2,6 @@
 #include <iostream>
 #include <string>
 #include "MusThing.h"
-using namespace std;
 
 class Music : public MusThing {
 protected:

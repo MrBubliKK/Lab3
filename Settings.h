@@ -4,8 +4,6 @@
 #include <chrono>
 #include <vector>
 
-using namespace std;
-
 class Settings {
 private:
 	int volume = 30;

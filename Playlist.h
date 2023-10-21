@@ -3,7 +3,6 @@
 #include <string>
 #include <vector>
 #include "Search.h"
-using namespace std;
 
 class Playlist {
 private:
