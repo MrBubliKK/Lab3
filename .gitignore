@@ -361,3 +361,11 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+
+Lab3.vcxproj.filters
+Lab3.vcxproj
+Lab3Tests.vcxproj.filters
+Lab3Tests.vcxproj
+pch.cpp
+pch.h
